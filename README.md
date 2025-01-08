@@ -55,7 +55,7 @@ Learned to evaluate models using metrics such as R-squared and Mean Squared Erro
 
 ---
 
-# **3. Credit Card Fraud Detection**
+ **3. Credit Card Fraud Detection**
 
 
 Project Overview:
